@@ -7,3 +7,8 @@ https://doi.org/10.1007/s42461-020-00238-1
 
 ML: Polynomial regression, Support Vector Regression, kNearest Neighboor Regression
 DL: Multilayer perceptron, Long Short-Term Memory, Gated Recurrent Unit
+
+Original dataset not publicly available. 
+Contact authors for data structure and example if required.
+
+S. Avalos (sebatian.avalos@queensu.ca)
